@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-boot-file-upload
+
+
+
+
+server:
+  port: 8089
+  application:
+    name: InjectMapFromYAML
+    url: http://injectmapfromyaml.dev
+    description: How-To-Inject a map from a. YAML File in Spring Boot.
